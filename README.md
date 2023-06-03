@@ -10,6 +10,4 @@ NOTE: To use the following .py files one must add all folders in their directory
 
 **train_mrn.py** - Contains code necessary to train the MRN network. It also helps predict core point coordinates for fingerprint images.
 
-## Dataset
-
 ## Citation
